@@ -779,8 +779,8 @@ border-color: #4D5AE5;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
-  border: 1px solid rgba(46, 47, 66, 0.2)
-  border-radius: 4px;
+  border: 1px solid rgba(46, 47, 66, 0.2);
+  border-radius: 4px; 
   background-color: transparent; 
   outline: transparent; 
   transition: border-color var(--transition-duration-and-func);
